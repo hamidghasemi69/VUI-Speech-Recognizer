@@ -2,10 +2,7 @@
 Building a deep neural network as part of an end-to-end automatic speech recognition (ASR) pipeline
 
 # Project Overview: DNN Speech Recognizer
-In this notebook, I built a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline!
-
-I began by investigating the LibriSpeech dataset that will be used to train and evaluate your models. I first converted any raw audio to feature representations that are commonly used for ASR. I then moved on to building neural networks that can map these audio features to transcribed text. After learning about the basic types of layers that are often used for deep learning-based approaches to ASR, I performed investigations by creating and testing my own state-of-the-art models. 
-
+In this project, I built a deep neural network as part of an end-to-end automatic speech recognition (ASR) pipeline. I started by exploring the LibriSpeech dataset, which would be used to train and evaluate the models. The first step involved converting raw audio into feature representations commonly used for ASR. Afterward, I focused on building neural networks capable of mapping these audio features to transcribed text. By studying the basic types of layers frequently used in deep learning-based ASR approaches, I conducted investigations and tested my own state-of-the-art models to enhance the ASR performance.
 
 
 <img width="689" alt="asr" src="https://github.com/hamidghasemi69/VUI-Speech-Recognizer/assets/22797186/7fcf8672-1b9a-4f7a-976e-350d3b34c7dc">
