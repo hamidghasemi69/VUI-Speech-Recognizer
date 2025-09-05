@@ -61,6 +61,8 @@ Ensure you have the following libraries installed:
 
 The model demonstrates the ability to transcribe spoken language into written text, achieving satisfactory accuracy on the validation set.
 
+<img width="689" alt="asr" src="https://github.com/hamidghasemi69/VUI-Speech-Recognizer/assets/22797186/7fcf8672-1b9a-4f7a-976e-350d3b34c7dc">
+
 
 ---
 
