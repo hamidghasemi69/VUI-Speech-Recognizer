@@ -34,9 +34,9 @@ This project focuses on developing a deep neural network for automatic speech re
 
 1. Clone the repository:
 
-  `git clone https://github.com/hamidghasemi69/VUI-Speech-Recognizer.git`
-  
-  `cd VUI-Speech-Recognizer`
+    `git clone https://github.com/hamidghasemi69/VUI-Speech-Recognizer.git`
+    
+    `cd VUI-Speech-Recognizer`
 
 2. Open the Jupyter notebook:
 
