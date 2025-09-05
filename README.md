@@ -40,7 +40,7 @@ This project focuses on developing a deep neural network for automatic speech re
 
 2. Open the Jupyter notebook:
 
-  `jupyter notebook vui_notebook.ipynb`
+      `jupyter notebook vui_notebook.ipynb`
 
 3. Follow the instructions in the notebook to preprocess the data, define the model, train it, and evaluate its performance.
 
